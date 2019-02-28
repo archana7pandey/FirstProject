@@ -1,6 +1,6 @@
 package javaPrograms;
 
-import java.util.Calendar;
+
 import java.util.Random;
 
 public class ExRandom {
